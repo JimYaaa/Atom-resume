@@ -396,6 +396,19 @@ hr{display: block;height: 1px;border: 0;border-top: 1px solid #ccc;margin: 1rem 
   font-size: 18px;
 }
 
+.contact {
+  position: absolute;
+  bottom: 60px;
+  left: 0;
+  box-sizing: border-box;
+  margin-left: 20px;
+}
+
+.contact p {
+  margin-top: 10px;
+  font-size: 17px;
+  color: #99a5af;
+}
 
 
 
@@ -539,6 +552,20 @@ hr{display: block;height: 1px;border: 0;border-top: 1px solid #ccc;margin: 1rem 
   .article-profile .content h2, .article-reason .content h2, .article-dream .content h2 {
     color: #E08A43;
     font-size: 18px;
+  }
+  
+    .contact {
+    position: absolute;
+    bottom: 60px;
+    left: 0;
+    box-sizing: border-box;
+    margin-left: 60px;
+  }
+
+  .contact p {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #99a5af;
   }
 
 }
