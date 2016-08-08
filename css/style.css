@@ -497,7 +497,7 @@ hr{display: block;height: 1px;border: 0;border-top: 1px solid #ccc;margin: 1rem 
     line-height: 40px;
     text-align: center;
     box-sizing: border-box;
-    z-index: 999;
+    z-index: 2;
     color: #99a5af;
     background-color: #21252b;
     overflow: auto;
