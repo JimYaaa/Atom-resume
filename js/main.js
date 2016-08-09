@@ -298,7 +298,7 @@ $(document).ready(function() {
       $('.blink').text('Welcome to use Atom.').fadeIn().delay(3000).fadeOut();
       i = i + 1;
     }else{
-      $('.blink').text('Hope you will enjoin this resume').fadeIn().delay(3000).fadeOut();
+      $('.blink').text('Hope you will enjoy this resume').fadeIn().delay(3000).fadeOut();
       i = i - 1;
     }
   }
